@@ -23,4 +23,8 @@
 optimized for embedded control systems like in this fire alarm system.
 * Once microcontroller gets signal from sensors (via ADC), if fire is detected then it will immediately turn on the buzzer & send the signal to the GSM modem.
 
-## 
+## Display :
+* Display presents vital information to operators concerning a fire situation, fire progression and evacuation details.
+
+## Alarm :
+* 
