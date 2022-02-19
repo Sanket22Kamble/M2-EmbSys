@@ -1,3 +1,4 @@
+# Simple Embedded System
 # Fire Alarm Circuit
 ![Fire Alarm Circuit (2)](https://user-images.githubusercontent.com/98873866/154792901-72a432dc-1bca-40cc-b042-e060988e817d.png)
 
@@ -38,3 +39,5 @@ optimized for embedded control systems like in this fire alarm system.
 required command from the microcontroller to send an predefined message in the
 form of an alerting sms to a single or multiple users.
 * We used GSM modem for message sending. When microcontroller detects fire then it sends information to the GSM modem, then GSM modem sends this information via SMS. GSM modem is used to send the message to the fire stations well as to the responsible person.
+
+
