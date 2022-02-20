@@ -59,7 +59,7 @@ form of an alerting sms to a single or multiple users.
 | HR02   | It should be able to display temperature on screen.                         |
 | HR03   | It should be able to turn on alarm circuit (Using Buzzer).                  |
 | HR04   | It should be able to turn on automatic water sprinkler to get rid-off fire. |
-| HR06   | Smoke detector,fire alarm system or any component of that system which fails should be repaired or replaced immediately
+| HR05   | Smoke detector,fire alarm system or any component of that system which fails should be repaired or replaced immediately
 
 
 
