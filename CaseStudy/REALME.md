@@ -41,3 +41,51 @@ form of an alerting sms to a single or multiple users.
 * We used GSM modem for message sending. When microcontroller detects fire then it sends information to the GSM modem, then GSM modem sends this information via SMS. GSM modem is used to send the message to the fire stations well as to the responsible person.
 
 
+# Mid-Complex Embedded System
+# Vaccum Cleaner
+![Vaccum Cleaner (3)](https://user-images.githubusercontent.com/98873866/154832153-52ef89b6-cc54-4b92-a4c2-df091efe6e0f.png)
+
+
+
+# Components :
+
+## Mechanical Keypad :
+* Mechanical Keypad is used to give input instruction from users to Vaccum Cleaner such as suction pressure, speed , timer , automatic on/off modes.
+
+## EEPROM :
+* EEPROM is user-modifiable read-only memory (ROM) that allow users to erase and reprogram stored data repeatedly in Vaccum Cleaner.
+
+## Main Switch :
+* The main switch provides a high speed/low speed switch and a power switch.  The power switch is automatically moved to its open or OFF position in response to the mounting of an accessory.
+* The control switch and motor provide plug-type connectors which automatically connect the internal motor wiring when the switch is installed.
+
+## Analog to Digital Converter (ADC) :
+* An analog-to-digital converter (ADC) is used to convert an analog signal such as voltage to a digital form so that it can be read and processed by a microcontroller.
+
+## Relay :
+* An Vaccum Cleaner uses relays to switch the system's high-voltage parts on and off.
+
+
+## Backlight :
+* A backlight is a form of illumination used in LCD. Backlights are used in small displays to increase readability in low light conditions such as in Vaccum Cleaner to produce light in a manner similar to a CRT display.
+
+## LCD :
+* The vacuum cleaner also has an LCD Digital Display that provides all the information including your suction level settings and remaining battery time at a glance. 
+
+## Buffer :
+* When the buffer is in operation, a vacuum force starts water flowing through a hose; as it enters the combustion chamber of the engine, it cools the engine in the form of a mist that turns to steam when it encounters the engine's high temperatures.
+
+## Temperature sensor :
+* It is used to detect temperature of system .
+
+## Buzzer :
+* The use of Buzzer in vaccum cleaner is to give warning to user to turn off switch if system detects any fault.
+
+## Signal Conditioning and Comparators :
+* The main function of a signal conditioner & Comparator is to pick up the signal and convert it into a higher level of electrical signal.
+
+## Gate driver :
+* A gate driver is a power amplifier that accepts a low power input from a controller and produces the appropriate high current gate drive for a power device.
+
+## BLDC motor :
+* BlDC motor spins a fan, sucking in air and any small particles caught up in it and pushing it out the other side, into a bag to create the negative pressure.
