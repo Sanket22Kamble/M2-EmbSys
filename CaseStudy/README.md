@@ -88,4 +88,4 @@ form of an alerting sms to a single or multiple users.
 * A gate driver is a power amplifier that accepts a low power input from a controller and produces the appropriate high current gate drive for a power device.
 
 ## BLDC motor :
-* BlDC motor spins a fan, sucking in air and any small particles caught up in it and pushing it out the other side, into a bag to create the negative pressure.
+* BLDC motor spins a fan, sucking in air and any small particles caught up in it and pushing it out the other side, into a bag to create the negative pressure.
