@@ -13,7 +13,7 @@
  
 ## Temperature Sensor :
 * Temperature Sensor can be used in fire alarms to detect fires based on a sudden change in temperature.
-* The temperature sensor sense the temprature if it exceeds the max temperature level then it sends the signal to the ADC. If fire is detected, then fire sensor gives signal to the microcontroller.
+* The temperature sensor sense the temperature if it exceeds the max temperature level then it sends the signal to the ADC. If fire is detected, then fire sensor gives signal to the microcontroller.
 
 ## Analog to Digital converter (ADC) :
 * The Analog to Digital Converter Module can be used as a fire alarm by connecting the temperature sensor which is an analog type. The module converts the analog signal to digital signal and activates the output.
