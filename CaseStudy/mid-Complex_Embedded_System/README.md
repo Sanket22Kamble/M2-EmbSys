@@ -67,3 +67,9 @@
 |  HR03 | It should show display on mechanical keypad.
 |  HR04 | It should be able to switch into a low power mode after a reasonable amount of time.
 |  HR05 | It should have low noise level while working.
+
+# Applications :
+* They are majorly used to remove dirt and dust from  carpets, velveteen furniture and floors.
+* Vacuum cleaner Captures Excess Pet Hair ,Trap Dust Before It Spreads,Clean Kitchen Appliances.
+* Use the vacuum cleaner to remove dust from the refrigerator coils and condenser. 
+* Vacuum Cleaner helps you to get small items, if you dropped something small like an earring, nail, or screw behind a piece of furniture.
