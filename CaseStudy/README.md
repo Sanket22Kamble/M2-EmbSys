@@ -32,10 +32,10 @@ optimized for embedded control systems like in this fire alarm system.
 * Mainly Buzzer is used for alarm system. If fire is detecting, then microcontroller sends signal to the buzzer. Buzzer is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short). Typical uses of buzzers include alarm devices.
 
 ## Automatic Water Sprinkler :
-* A Automatic water sprinkler system is a system of sprinklers that release water to control and extinguish fires. These systems are activated by heat or smoke (or both). For many types of fires, water is an effective or the most effective fire suppression agent.
+* An Automatic water sprinkler system is a system of sprinklers that release water to control and extinguish fires. These systems are activated by heat or smoke (or both). For many types of fires, water is an effective or the most effective fire suppression agent.
 
 ## GSM :
-* A gsm (Global system for mobile Communication) modem interfaced with the microcontroller gets the
+* A GSM (Global system for mobile Communication) modem interfaced with the microcontroller gets the
 required command from the microcontroller to send an predefined message in the
 form of an alerting sms to a single or multiple users.
 * We used GSM modem for message sending. When microcontroller detects fire then it sends information to the GSM modem, then GSM modem sends this information via SMS. GSM modem is used to send the message to the fire stations well as to the responsible person.
