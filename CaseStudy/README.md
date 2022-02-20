@@ -42,7 +42,7 @@ form of an alerting sms to a single or multiple users.
 
 
 # Mid-Complex Embedded System
-# Vaccum Cleaner
+# Vacuum Cleaner
 ![Vaccum Cleaner (3)](https://user-images.githubusercontent.com/98873866/154832153-52ef89b6-cc54-4b92-a4c2-df091efe6e0f.png)
 
 
@@ -50,7 +50,7 @@ form of an alerting sms to a single or multiple users.
 # Components :
 
 ## Mechanical Keypad :
-* Mechanical Keypad is used to give input instruction from users to Vaccum Cleaner such as suction pressure, speed , timer , automatic on/off modes.
+* Mechanical Keypad is used to give input instruction from users to Vacuum Cleaner such as suction pressure, speed , timer , automatic on/off modes.
 
 ## EEPROM :
 * EEPROM is user-modifiable read-only memory (ROM) that allow users to erase and reprogram stored data repeatedly in Vaccum Cleaner.
@@ -63,11 +63,11 @@ form of an alerting sms to a single or multiple users.
 * An analog-to-digital converter (ADC) is used to convert an analog signal such as voltage to a digital form so that it can be read and processed by a microcontroller.
 
 ## Relay :
-* An Vaccum Cleaner uses relays to switch the system's high-voltage parts on and off.
+* An Vacuum Cleaner uses relays to switch the system's high-voltage parts on and off.
 
 
 ## Backlight :
-* A backlight is a form of illumination used in LCD. Backlights are used in small displays to increase readability in low light conditions such as in Vaccum Cleaner to produce light in a manner similar to a CRT display.
+* A backlight is a form of illumination used in LCD. Backlights are used in small displays to increase readability in low light conditions such as in Vacuum Cleaner to produce light in a manner similar to a CRT display.
 
 ## LCD :
 * The vacuum cleaner also has an LCD Digital Display that provides all the information including your suction level settings and remaining battery time at a glance. 
