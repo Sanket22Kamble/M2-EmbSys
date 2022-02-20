@@ -62,5 +62,9 @@ form of an alerting sms to a single or multiple users.
 | HR05   | Smoke detector,fire alarm system or any component of that system which fails should be repaired or replaced immediately.
 
 
-
-
+# Applications :
+* Fire Alarm Circuits are very useful in homes, offices, schools, labs, etc. to detect and prevent any disasters due to fire.
+* For residential applications, smoke detectors should be installed outside.
+* Fire Alarm Systems can work as a stand – alone devices or be a part of a complex home security system with other security features like smoke detection, intruder alert, motion detection, etc.
+* Installing Fire Alarm Systems and Smoke Sensors in commercial buildings like offices, movie theatres, shopping malls and other public places is compulsory.
+ 
