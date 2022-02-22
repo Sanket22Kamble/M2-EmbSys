@@ -68,7 +68,9 @@ form of an alerting sms to a single or multiple users.
 * Fire Alarm Systems can work as a stand – alone devices or be a part of a complex home security system with other security features like smoke detection, intruder alert, motion detection, etc.
 * Installing Fire Alarm Systems and Smoke Sensors in commercial buildings like offices, movie theatres, shopping malls and other public places is compulsory.
  
+ 
 # Mid-Complex Embedded System
+
 # Vacuum Cleaner
 ![Vaccum Cleaner (3)](https://user-images.githubusercontent.com/98873866/154832153-52ef89b6-cc54-4b92-a4c2-df091efe6e0f.png)
 
