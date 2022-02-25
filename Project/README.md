@@ -22,10 +22,14 @@ A water level controller senses the level of water in a tank and drives the wate
 |LLR04	|LED should glow green when valve is closed.               |HLR03
 |LLR05	|Potentiometer should regulate the voltage properly.       |HLR04
 
+
+
 # Block Diagram :
+
 ![Water_level_controller](https://user-images.githubusercontent.com/98873866/155764874-7e646d92-cba2-4127-8f11-fcbfc1ccee74.png)
 
 ## Components :
+
  ## Main Switch :
  * A main switch detects the level of a water in a tank. Based on the water level, it will open or close an electrical circuit generally used to pump water in or out of the tank.
  * The control switch and motor provide plug-type connectors which automatically connect the internal motor wiring when the switch is installed. Switch Supply is used to provide voltage to the Arduino, Servo motor, Sensors etc.
