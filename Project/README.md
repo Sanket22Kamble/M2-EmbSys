@@ -1,4 +1,5 @@
 # Automatic Water Level Controller
+### Abstract
 Automatic water level controllers are a product that was created to automatically control a motor, which helps to ensure a constant reserve of water in a storage tank. These automatic water level controllers are used to automatically fill the over-head tank.
 
 A water level controller senses the level of water in a tank and drives the water pump. Water level controllers switch the motor on whenever the water level drops below a certain level and shuts the motor off when the water rises well above a fixed level. This circuit which will detect the water level and will blink a red or green colour upon getting the water tank full or a preset level.
@@ -23,14 +24,12 @@ A water level controller senses the level of water in a tank and drives the wate
 |LLR05	|Potentiometer should regulate the voltage properly.       |HLR04
 
 
-
+ 
 # Block Diagram :
 
-![Water_level_controller](https://user-images.githubusercontent.com/98873866/155764874-7e646d92-cba2-4127-8f11-fcbfc1ccee74.png)
 
-## Components :
-
- ## Main Switch :
+# Components :
+## Main Switch :
  * A main switch detects the level of a water in a tank. Based on the water level, it will open or close an electrical circuit generally used to pump water in or out of the tank.
  * The control switch and motor provide plug-type connectors which automatically connect the internal motor wiring when the switch is installed. Switch Supply is used to provide voltage to the Arduino, Servo motor, Sensors etc.
 
