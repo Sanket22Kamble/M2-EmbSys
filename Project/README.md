@@ -81,7 +81,7 @@ failure.
 ## Ultrasonic Sensor (HC-SR01) :
 * To determine the distance to the water, it transmits a sound pulse that reflects from the surface of the water and measures the time it takes for the echo to return. To automatically control open and close the water gate, we use Ultrasonic sensors as input values.
 
-## Servo Motor :
+## Servo Motor (Actuator) :
 * The function of the servo motor is to convert the control signal of the controller into the rotational angular displacement or angular velocity of the motor output shaft. Servo motor is used to drive the joints.
 
 ## LED :
