@@ -17,3 +17,37 @@
 |LLR04	|LED should glow green when valve is closed.               |HLR03
 |LLR05	|Potentiometer should regulate the voltage properly.       |HLR04
 
+## SWOT analysis :
+
+ ### STRENGTHS
+* Easy to install, manage and maintain and low maintenance.
+* Highly reliable and Economically competitive.
+* Enhanced Security of Urban Water supply and Water use efficiency.
+ 
+ ### WEAKNESSES
+* The automatic water level controller shows poor durability.
+* When a problem arose, there is no built-in function to help identify the source of the
+failure.
+* Water level controls need to be replaced every 3 years.
+
+ ### OPPORTUNITIES
+* It Develops Water Saving Technology.
+* Maximize Water supply Benefits and provide balanced allocation of water resources.
+
+
+ ### THREATS
+* Skills for repair/spare parts not available in most of the areas.
+* Any sort of defect or fault in the circuit will cause problem in water supply. 
+
+
+## 4 W's and 1H's
+ ### Who :
+ * Everyone can use this device as for their commercial, industrial or domestic use.
+ ### What :
+ * This system is Automatic so it doesn't requires manual work which saves human time and energy.
+ ### When :
+ * This system is used when the water tank level is empty or full.
+ ### Where :
+ * In water supply system , Agricultural Use and also in Use for Hydropower Generation.
+ ### How :
+ * Automatic water level controllers switch the motor on whenever the water level drops below a certain level and shuts the motor off when the water rises well above a fixed level.
