@@ -24,6 +24,7 @@ A water level controller senses the level of water in a tank and drives the wate
 |LLR05	|Potentiometer should regulate the voltage properly.       |HLR04
 
 ## SWOT analysis :
+![Screenshot (24)](https://user-images.githubusercontent.com/98873866/157003729-e473d56c-a676-410b-a291-6f4180eb1180.png)
 
  ### STRENGTHS
 * Easy to install, manage and maintain and low maintenance.
