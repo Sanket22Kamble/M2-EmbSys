@@ -1,5 +1,5 @@
 # Automatic Water Level Controller
-## Abstract
+## Abstract:
 Automatic water level controllers are a product that was created to automatically control a motor, which helps to ensure a constant reserve of water in a storage tank. These automatic water level controllers are used to automatically fill the over-head tank.
 
 A water level controller senses the level of water in a tank and drives the water pump. Water level controllers switch the motor on whenever the water level drops below a certain level and shuts the motor off when the water rises well above a fixed level. This circuit which will detect the water level and will blink a red or green colour upon getting the water tank full or a preset level.
@@ -7,7 +7,7 @@ A water level controller senses the level of water in a tank and drives the wate
 ![maxresdefault_7_34](https://user-images.githubusercontent.com/98873866/157159470-b4c4fae8-3b65-4603-acaa-716704d9c62e.jpg)
 
 
-## Requirements :
+## Requirements:
 ### High Level Requirements
 
 |ID	    |DESCRIPTION
@@ -30,34 +30,34 @@ A water level controller senses the level of water in a tank and drives the wate
 
 ![Water_level_controller](https://user-images.githubusercontent.com/98873866/155764874-7e646d92-cba2-4127-8f11-fcbfc1ccee74.png)
 
-# Components :
-## Main Switch :
+# Components:
+## Main Switch:
  * A main switch detects the level of a water in a tank. Based on the water level, it will open or close an electrical circuit generally used to pump water in or out of the tank.
  * The control switch and motor provide plug-type connectors which automatically connect the internal motor wiring when the switch is installed. Switch Supply is used to provide voltage to the Arduino, Servo motor, Sensors etc.
 
-## Arduino :
+## Arduino:
 * Arduino is an open-source electronics platform based on easy-to-use hardware and software.
 * Arduino reads the voltage dropped across each pull down resistor for sensing the level of water in the tank.
 
-## Voltmeter :
+## Voltmeter:
 * A voltmeter is an instrument used for measuring electric potential difference between two points in an electric circuit.
 * In this circuit we have connected voltmeter to potentiometer and Ultrasonic sensor.
 
-## Potentiometer :
+## Potentiometer:
 * The mechanical system of sensor is destined to convert linearly the value of potentiometer resistance to the water level variation. The signal conditioning consists of analog and digital system especially microcontroller circuit.
 
 ## Ultrasonic Sensor (HC-SR01) :
 * To determine the distance to the water, it transmits a sound pulse that reflects from the surface of the water and measures the time it takes for the echo to return. To automatically control open and close the water gate, we use Ultrasonic sensors as input values.
 
-## Servo Motor (Actuator) :
+## Servo Motor (Actuator):
 * The function of the servo motor is to convert the control signal of the controller into the rotational angular displacement or angular velocity of the motor output shaft. Servo motor is used to drive the joints.
 
-## LED :
+## LED:
 * LED is a semiconductor device used in many electronic devices, mostly used for indication purposes. It is used widely as indicator during test for checking the validity of results at different stages.
 * When servo motor valve open, the Red LED will glow indicating that there is less water within the tank and when the water level continues to increases and reaches the tank, Green LED will glow.
 
 
-## SWOT analysis :
+## SWOT analysis:
 ![Screenshot (24)](https://user-images.githubusercontent.com/98873866/157003729-e473d56c-a676-410b-a291-6f4180eb1180.png)
 
  ### STRENGTHS
@@ -82,33 +82,37 @@ failure.
 
 
 ## 4 W's and 1H's
- ### Who :
+ ### Who:
  * Everyone can use this device as for their commercial, industrial or domestic use.
- ### What :
+ ### What:
  * This system is Automatic so it doesn't requires manual work which saves human time and energy.
- ### When :
+ ### When:
  * This system is used when the water tank level is empty or full.
- ### Where :
+ ### Where:
  * In water supply system , Agricultural Use and also in Use for Hydropower Generation.
- ### How :
+ ### How:
  * Automatic water level controllers switch the motor on whenever the water level drops below a certain level and shuts the motor off when the water rises well above a fixed level.
  
 
-# Applications :
+# Applications:
 * It is used in Pump controller and can be used in water tanks to control water levels.
 * It is used in Irrigation control as it automatically turn ON/OFF pumps.
 * It can be used in factories, commercial complexes, apartments, home.
 * It can be used in Oil tank Level Control.
 * It can also be used in Sewage pump level control.
 
-## Design :
-### Behavourial :
+## Design:
+### Behavourial:
  #### Flowchart
  
  ![Blank diagram](https://user-images.githubusercontent.com/98873866/155834244-e634cc92-1265-4852-8f34-73866a3568b4.png)
 
-### Structural Diagram :
+### Structural Diagram:
 ![images (13)](https://user-images.githubusercontent.com/98873866/155841419-becd2e23-8cb6-46f1-9c6d-ddafbdb8aa35.jpeg)
+
+### Circuit Diagram:
+![circuit_digram](https://user-images.githubusercontent.com/98873866/157193454-6ba95b1f-9fad-48ed-88e6-9d9a3d8e1b5d.png)
+
 
 # TEST PLAN
 ## HIGH LEVEL TEST PLAN
@@ -134,13 +138,13 @@ failure.
 
 
 # Images and Videos
-## When motor valve is open :
+## When motor valve is open:
 ![Output-1](https://user-images.githubusercontent.com/98873866/157186914-52b10088-cf06-4213-b7af-4aa6fb113aac.png)
 
-## When motor valve is closed :
+## When motor valve is closed:
 ![Output-2](https://user-images.githubusercontent.com/98873866/157186956-4f8580bb-b7d1-48b2-aea3-e2a65b1ba319.png)
 
 
-## Arduino Programming :
+## Arduino Programming:
 ![Arduino_module2_image - Copy](https://user-images.githubusercontent.com/98873866/157063792-96008ecb-8e63-44c7-bba5-14522632a03a.png)
 
