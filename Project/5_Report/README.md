@@ -4,6 +4,9 @@ Automatic water level controllers are a product that was created to automaticall
 
 A water level controller senses the level of water in a tank and drives the water pump. Water level controllers switch the motor on whenever the water level drops below a certain level and shuts the motor off when the water rises well above a fixed level. This circuit which will detect the water level and will blink a red or green colour upon getting the water tank full or a preset level.
 
+![maxresdefault_7_34](https://user-images.githubusercontent.com/98873866/157159470-b4c4fae8-3b65-4603-acaa-716704d9c62e.jpg)
+
+
 ## Requirements :
 ### High Level Requirements
 
