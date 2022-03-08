@@ -82,6 +82,9 @@ failure.
 
 
 ## 4 W's and 1H's
+
+![image](https://user-images.githubusercontent.com/98873866/157194689-7d30f525-1efa-4a91-a190-9fb79560d22e.png)
+
  ### Who :
  * Everyone can use this device as for their commercial, industrial or domestic use.
  ### What :
