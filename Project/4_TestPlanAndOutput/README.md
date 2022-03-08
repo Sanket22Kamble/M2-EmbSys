@@ -1,4 +1,11 @@
 # TEST PLAN
+
+* For every feature,define a test case
+* How to run that feature
+* Define expected behaviour
+* Capture the actual result
+
+
 ## HIGH LEVEL TEST PLAN
 
 |Test ID | Description | Exp I/P | Exp O/P | Exp O/P |
