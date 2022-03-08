@@ -1,5 +1,8 @@
 # M2-EmbSys
 ## Badges
+|Cpp Check|
+|:--------|
+|[![Cpp-Check](https://github.com/Sanket22Kamble/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sanket22Kamble/M2-EmbSys/actions/workflows/c-cpp.yml)|
 
 |  Codeac                                                                                      | code grade            | Codacy Code Quality 
 |:-------------------------------------------------------------------------------------------------------------:|:---------------------:|:------------------------- 
