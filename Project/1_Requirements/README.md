@@ -1,4 +1,10 @@
 # Automatic Water Level Controller
+## Badges
+
+|  Codeac                                                                                      | code grade            | Codacy Code Quality 
+|:-------------------------------------------------------------------------------------------------------------:|:---------------------:|:------------------------- 
+|[![Codeac](https://static.codeac.io/badges/2-461123539.svg "Codeac")](https://app.codeac.io/github/Sanket22Kamble/M2-EmbSys)|![image](https://user-images.githubusercontent.com/98873866/153565420-c4bf3256-bbb6-42f3-a72f-eef13c76c91a.png)                                               |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d6fdd08a858648c6948c06829ea9cbb3)](https://www.codacy.com/gh/Sanket22Kamble/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sanket22Kamble/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+
 ## Abstract
 Automatic water level controllers are a product that was created to automatically control a motor, which helps to ensure a constant reserve of water in a storage tank. These automatic water level controllers are used to automatically fill the over-head tank.
 
