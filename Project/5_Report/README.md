@@ -133,7 +133,7 @@ failure.
 |LR_05   |      Potentiometer should regulate the voltage properly|     5V supply  |    Voltmeter will show the reading.    |    Passed     |
 
 
-
+# Images and Videos
 ## When motor valve is open :
 ![Output-1](https://user-images.githubusercontent.com/98873866/157186914-52b10088-cf06-4213-b7af-4aa6fb113aac.png)
 
