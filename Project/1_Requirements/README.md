@@ -18,7 +18,7 @@
 |LLR05	|Potentiometer should regulate the voltage properly.       |HLR04
 
 ## SWOT analysis :
-![Screenshot (24)](https://user-images.githubusercontent.com/98873866/157068134-3d3b24ba-a06a-404e-ac20-c5fe809eddd3.png)
+![swot-analysis-concept-strengths-weaknesses-opportunities-and-threats-of-the-company-vector-illustration-with-icons-and-text-R7KD9D_3_27](https://user-images.githubusercontent.com/98873866/157159960-d27ddda6-80c7-46a6-aeb9-c24bff847aab.jpg)
 
 
  ### STRENGTHS
