@@ -1,9 +1,18 @@
 # Automatic Water Level Controller
 ## Badges
+|Cpp Check| Codeac
+|:--------|------
+|[![Cpp-Check](https://github.com/Sanket22Kamble/M2-EmbSys/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sanket22Kamble/M2-EmbSys/actions/workflows/c-cpp.yml)|[![Codeac](https://static.codeac.io/badges/2-461123539.svg "Codeac")](https://app.codeac.io/github/Sanket22Kamble/M2-EmbSys)
 
-|  Codeac                                                                                      | code grade            | Codacy Code Quality 
+|  Codiga code quality                                                                                          | code grade            | Codacy Code Quality 
 |:-------------------------------------------------------------------------------------------------------------:|:---------------------:|:------------------------- 
-|[![Codeac](https://static.codeac.io/badges/2-461123539.svg "Codeac")](https://app.codeac.io/github/Sanket22Kamble/M2-EmbSys)|![image](https://user-images.githubusercontent.com/98873866/153565420-c4bf3256-bbb6-42f3-a72f-eef13c76c91a.png)                                               |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d6fdd08a858648c6948c06829ea9cbb3)](https://www.codacy.com/gh/Sanket22Kamble/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sanket22Kamble/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+|![image](https://user-images.githubusercontent.com/98873866/157243027-bdf90416-2e4c-4168-b9f7-9541cce2dce9.png)|![image](https://user-images.githubusercontent.com/98873866/157243088-fca707a8-5890-4dea-a951-537936ed4145.png)                                              |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d6fdd08a858648c6948c06829ea9cbb3)](https://www.codacy.com/gh/Sanket22Kamble/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sanket22Kamble/M2-EmbSys&amp;utm_campaign=Badge_Grade)
+|[Codiga code quality](https://api.codiga.io/project/31638/score/svg)                                           |[Codiga grade](https://api.codiga.io/project/31638/status/svg)|[Codacy](https://app.codacy.com/gh/Sanket22Kamble/M2-EmbSys/settings)
+   
+ ## Tools Used
+* [Codiga](https://api.codiga.io/project/31638/score/svg)
+* [Codeac](https://api.codiga.io/project/31638/status/svg)
+* [Codacy](https://app.codacy.com/gh/Sanket22Kamble/M2-EmbSys/settings)  
 
 ## Abstract
 Automatic water level controllers are a product that was created to automatically control a motor, which helps to ensure a constant reserve of water in a storage tank. These automatic water level controllers are used to automatically fill the over-head tank.
