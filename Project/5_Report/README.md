@@ -135,10 +135,10 @@ failure.
 
 
 ## When motor valve is open :
-![Screenshot (22)](https://user-images.githubusercontent.com/98873866/157002042-dec88598-cba4-46b9-bdb4-4b9f1ae2c09c.png)
+![Output-1](https://user-images.githubusercontent.com/98873866/157186914-52b10088-cf06-4213-b7af-4aa6fb113aac.png)
 
 ## When motor valve is closed :
-![Screenshot (23)](https://user-images.githubusercontent.com/98873866/157002261-8ce69871-bb58-409f-8234-5972244fa408.png)
+![Output-2](https://user-images.githubusercontent.com/98873866/157186956-4f8580bb-b7d1-48b2-aea3-e2a65b1ba319.png)
 
 
 ## Arduino Programming :
