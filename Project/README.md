@@ -4,20 +4,6 @@
 |:-----|
 |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d6fdd08a858648c6948c06829ea9cbb3)](https://www.codacy.com/gh/Sanket22Kamble/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sanket22Kamble/M2-EmbSys&amp;utm_campaign=Badge_Grade)|
 
-
-
-# Folder Description
-|   Folder Name        |      Description
-|:-------------------- |:--------------------------
-| 0_Certificates       | All the required certificates
-| 1_Requirements       | Detail documents about high and low level requirements
-| 2_Architecture       | Structural and Flow  diagram of project
-| 3_Implementation     | Detail coding
-| 4_TestPlanAndOutput  | Include tables about test case
-| 5_Report             | Detail about project
-| 6_ImageAndVideo      | Image of output
-| 7_Other              | References
-
 # Automatic Water Level Controller
 ## Abstract
 Automatic water level controllers are a product that was created to automatically control a motor, which helps to ensure a constant reserve of water in a storage tank. These automatic water level controllers are used to automatically fill the over-head tank.
@@ -27,6 +13,16 @@ A water level controller senses the level of water in a tank and drives the wate
 ![maxresdefault_7_34](https://user-images.githubusercontent.com/98873866/157091995-dc80fef5-2816-4660-8b29-19349d7219b2.jpg)
 
 
+# Folder Description
+|   Folder Name        |      Description
+|:-------------------- |:--------------------------
+| 1_Requirements       | Detail documents about high and low level requirements
+| 2_Architecture       | Structural and Flow  diagram of project
+| 3_Implementation     | Detail coding
+| 4_TestPlanAndOutput  | Include tables about test case
+| 5_Report             | Detail about project
+| 6_ImageAndVideo      | Image of output
+| 7_Other              | References
 
 ## Requirements:
 ### High Level Requirements
